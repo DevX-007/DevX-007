@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="right">
-  <img src="https://github.com/FranciscoWan/githubProfileCustomizer"alt="typing svg" />
+  <img src="https://github.com/DevX-007/DevX-007/blob/main/typing.gif?raw=true"alt="typing svg" />
 </p>
 
 - 🌱 I’m currently learning **Next.js**
