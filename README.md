@@ -1,11 +1,4 @@
-<table align="center">
-  <tr>
-    <td width="50"></td>
-    <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Yadav" />
-    </td>
-  </tr>
-</table>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=++++Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Yadav" alt="Typing SVG" /></a>
 
 
 <h3 align="center">A passionate Full-Stack developer from India</h3>
