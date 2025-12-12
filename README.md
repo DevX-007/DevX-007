@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=75D1FF&width=600&lines=Full-Stack+Developer;Building+with+Next.js;Open+to+collab" alt="typing svg" />
+</p>
+
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **javascript,react,express**
