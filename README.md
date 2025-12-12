@@ -1,5 +1,5 @@
 <p align="center">
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Yadav" alt="Typing SVG" />
 </p>
 
